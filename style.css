@@ -30,7 +30,7 @@ body {
 }
 @keyframes qr-code {
   0% {
-    transform: scale(.99);
+    transform: scale(1);
   }
   100% {
     transform: scale(1.01);
@@ -50,12 +50,12 @@ body {
 }
 .main__texts {
   margin: 0 auto;
-  width: 80%;
+  width: 90%;
   text-align: center;
 }
 .main__title {
   padding: 20px 0;
-  font-size: 20px;
+  font-size: 24px;
 }
 .paragraph {
   color: var(--Grayish-blue);
